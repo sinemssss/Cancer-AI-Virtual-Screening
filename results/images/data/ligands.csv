@@ -1,0 +1,12 @@
+name,role,pubchem_cid,formula,mol_weight,smiles
+erlotinib,positive_control,176870,C22H23N3O4,393.4,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+gefitinib,positive_control,123631,C22H24ClFN4O3,446.9,COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4
+caffeine,negative_control,2519,C8H10N4O2,194.19,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+quercetin,candidate,5280343,C15H10O7,302.23,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+kaempferol,candidate,5280863,C15H10O6,286.24,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
+luteolin,candidate,5280445,C15H10O6,286.24,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O
+apigenin,candidate,5280443,C15H10O5,270.24,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
+chlorogenic_acid,candidate,1794427,C16H18O9,354.31,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O
+solasodine,candidate,442985,C27H43NO2,413.6,C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O)C)C)C)NC1
+solamargine,candidate,73611,C45H73NO15,868.1,C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@@H]([C@H]([C@@H](O8)C)O)O)O)O)O[C@H]9[C@@H]([C@@H]([C@H]([C@@H](O9)C)O)O)O)C)C)C)NC1
+diosgenin,candidate,99474,C27H42O3,414.6,C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O)C)C)C)OC1
